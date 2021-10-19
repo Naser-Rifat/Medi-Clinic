@@ -10,10 +10,9 @@ In the project directory, you can run:
    #### MediClinic
 
 #### `WebSite-Link`
-##### `https://medi-clinic-924d0.web.app/home#home`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Live Link](https://pages.github.com/)
+
 
 ### `npm test`
 
