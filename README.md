@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 #### `WebSite-Link`
 
-[Live Link](https://pages.github.com/)
+[Live Link](https://medi-clinic-924d0.web.app/home#home)
 
 
 ### `npm test`
