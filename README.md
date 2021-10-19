@@ -17,10 +17,10 @@ In the project directory, you can run:
 #### `Descrption`
 #### `MediClinic complement and amplify the effectiveness of many other parts of the health system, providing continuous availability of services for acute and complex conditions. we are concentrate scarce resources within well-planned referral networks to respond efficiently to population health needs.`
 
-## ` Chosen For Excellence`
-## `Care For Your Smile`
-## `Finest Patient Care`
-## `Home Caregiver service `
+### `-Chosen For Excellence`
+### `-Care For Your Smile`
+### `-Finest Patient Care`
+### `-Home Caregiver service `
 ## `Tryning to reach doorStep Care`
 
 
