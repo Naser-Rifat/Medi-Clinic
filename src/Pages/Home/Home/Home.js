@@ -1,7 +1,6 @@
 import React from 'react';
 import Articles from '../Articles/Articles';
 import Banner from '../Banner/Banner';
-import Footer from '../Footer/Footer';
 import HomeServices from '../HomeServices/HomeServices';
 import Services from '../Services/Services';
 
@@ -12,7 +11,6 @@ const Home = () => {
             <HomeServices></HomeServices>
             <Services></Services>
             <Articles></Articles>
-            <Footer></Footer>
         </div>
     );
 };

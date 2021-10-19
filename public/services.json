@@ -7,26 +7,32 @@
     },
     {
         "id": 2,
-        "img": "https://i.ibb.co/SyqK0jN/s-cardio.jpg",
-        "title": "Cardiac Surgery",
-        "description": "The department of cardiac surgery functions with a core team of best cardiac heart surgeons,"
+        "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/04/h2-img-8.jpg",
+        "title": "Emergency Clinic",
+        "description": "Urgent and emergency care services. Services the NHS provides if you need urgent or emergency medical help. Find urgent care services.,"
     },
     {
         "id": 3,
-        "img": "https://i.ibb.co/SyqK0jN/s-cardio.jpg",
-        "title": "Cardiac Surgery",
-        "description": "The department of cardiac surgery functions with a core team of best cardiac heart surgeons,"
+        "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/04/h2-img-3.jpg",
+        "title": "Precise Diagnosis",
+        "description": "A precise cancer diagnosis provides an accurate assessment of your tumor, including the cell type and stage, and helps oncologists determine the most "
     },
     {
         "id": 4,
-        "img": "https://i.ibb.co/SyqK0jN/s-cardio.jpg",
-        "title": "Cardiac Surgery",
-        "description": "The department of cardiac surgery functions with a core team of best cardiac heart surgeons,"
+        "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/04/h2-img-7.jpg",
+        "title": "Primary Care",
+        "description": "A primary care physician is a specialist in family medicine, general internal medicine or general pediatrics who provides definitive care to the ."
     },
     {
         "id": 5,
-        "img": "https://i.ibb.co/SyqK0jN/s-cardio.jpg",
-        "title": "Cardiac Surgery",
-        "description": "The department of cardiac surgery functions with a core team of best cardiac heart surgeons,"
+        "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/04/h2-img-1.jpg",
+        "title": "Vascular Surgery",
+        "description": "Department of Cardiothoracic & Vascular Surgery is dedicated to the diagnosis and surgical treatment of cardiac, thoracic and vascular diseases"
+    },
+    {
+        "id": 6,
+        "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/05/blog-post-11.jpg",
+        "title": "General Surgery",
+        "description": "General surgery is a discipline that requires knowledge of and responsibility for the preoperative, operative, and postoperative management of patients with ."
     }
 ]

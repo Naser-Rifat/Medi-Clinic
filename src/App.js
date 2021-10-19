@@ -8,6 +8,8 @@ import Login from './Pages/Login/Login';
 import Header from './Pages/Home/Header/Header';
 import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
 import NotFound from './Pages/NotFound/NotFound';
+import Aboutus from './Pages/Home/Aboutus/Aboutus';
+import Footer from './Pages/Home/Footer/Footer';
 
 
 function App() {
@@ -30,11 +32,15 @@ function App() {
             <Route path="/login">
               <Login></Login>
             </Route>
+            <Route path="/aboutus">
+              <Aboutus></Aboutus>
+            </Route>
             <Route path="*">
               <NotFound></NotFound>
             </Route>
 
           </Switch>
+          <Footer></Footer>
         </Router>
       </AuthProvider>
 

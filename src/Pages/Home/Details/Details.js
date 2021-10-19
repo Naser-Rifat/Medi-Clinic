@@ -11,7 +11,7 @@ const Details = () => {
 
 
     useEffect(() => {
-        fetch("/details.json")
+        fetch("/services.json")
             .then(res => res.json())
             .then(data => setData(data))
             .catch(error => {
@@ -25,10 +25,10 @@ const Details = () => {
     return (
 
         <Card className="w-50 m-auto">
-            <Card.Img variant="top" src={itemDetails.img} />
+            <Card.Img variant="top" src={itemDetails?.img} />
             <Card.Body>
                 <Card.Text>
-                    {itemDetails.description}
+                    {itemDetails?.description}
                 </Card.Text>
             </Card.Body>
         </Card>
