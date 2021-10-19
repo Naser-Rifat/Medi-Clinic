@@ -21,5 +21,5 @@ In the project directory, you can run:
 ### `-Care For Your Smile`
 ### `-Finest Patient Care`
 ### `-Home Caregiver service `
-## ` Reach to pretiant doorStep Care`
+### `-Reach to pretiant doorStep Care`
 
