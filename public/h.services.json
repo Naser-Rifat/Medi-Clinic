@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "img": "https://healsoul.thememove.com/wp-content/uploads/2018/10/blog-32-370x237.jpg",
+        "title": "Daily Home Care",
+        "description": "We send a doctor to visit the patient at home to diagnose  ..."
+    },
+    {
+        "id": 2,
+        "img": "https://healsoul.thememove.com/wp-content/uploads/2018/10/blog-29-370x237.jpg",
+        "title": "Hourly Home Care",
+        "description": "The most common form of home health care, which depends... "
+    },
+    {
+        "id": 3,
+        "img": "https://healsoul.thememove.com/wp-content/uploads/2018/10/blog-30-370x237.jpg",
+        "title": "Specialized Care",
+        "description": "Physical, mental, occupational therapy provides patients …"
+    }
+]
