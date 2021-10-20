@@ -17,7 +17,7 @@ const Services = () => {
                 <p className="  col-lg-6  border-2 p-5 rounded  text-justify leading-normal font-semibold text-gray-500	">MediClinic Health Services provide patients with choices to ask for the conducting and analyzing of several lab tests on-site at no cost for prioritized patients or at 70% for people with an insurance. Additional testing can be ordered off site; those costs are the responsibility of the enquirers.</p>
             </div>
             <hr className="w-50 mx-auto my-28 text-red-600" />
-            <h2 className="fw-bold my-5 text-red-500">Clinical Service</h2>
+            <h2 className="fw-bold text-4xl my-5 text-red-500">Clinical Service</h2>
 
             <div id="services" className="row g-4 mx-auto ">
                 {

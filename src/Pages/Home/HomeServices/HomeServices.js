@@ -15,7 +15,7 @@ const HomeServices = () => {
     }, [])
 
     return (
-        <div className="my-12">
+        <div className="my-8">
             <div id="doorstepservices" className=" row mx-4 m-auto">
                 {
                     data.map(hservice => <HomeService
