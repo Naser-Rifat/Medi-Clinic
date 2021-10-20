@@ -3,36 +3,42 @@
         "id": 1,
         "img": "https://i.ibb.co/SyqK0jN/s-cardio.jpg",
         "title": "Cardiac Surgery",
-        "description": "The department of cardiac surgery functions with a core team of best cardiac heart surgeons,"
+        "description": "Cardiovascular surgery, also referred to as cardiac surgery or heart surgery, describes any surgical procedure that involves the heart, or the blood vessels that carry blood to and from the heart. These procedures are common with patients who have heart disease or have had a heart attack, stroke or blood clot—as well as individuals who are at high risk for developing these problems. While cardiovascular surgery isn’t always necessary to treat heart problems, doctors may recommend it for a variety of reasons, including treating or preventing heart attacks and blood clots, addressing irregular heartbeats, opening blocked or narrowed arteries, repairing congenital heart problems, and fixing damaged or diseased heart valves. Some cardiovascular conditions require open surgery, but many are treated with less invasive techniques that use catheters and robotics.Cardiovascular surgery patients are cared for by a health care team that includes a primary care doctor, cardiologist, cardiovascular surgeon, anesthesiologist and other specialists.",
+        "shortDescription": "Cardiovascular surgery, also referred to as cardiac surgery or heart surgery"
     },
     {
         "id": 2,
         "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/04/h2-img-8.jpg",
         "title": "Emergency Clinic",
-        "description": "Urgent and emergency care services. Services the NHS provides if you need urgent or emergency medical help. Find urgent care services.,"
+        "description": "If you are seriously hurt or sick, you can go to a hospital emergency department for urgent treatment. Emergency departments are in many public hospitals across NSW and open 24 hours a day. To find your nearest emergency department, visit Emergency Department waiting times. Emergency medicine doctors and nurses specialise in treating patients who are suffering from a serious illness or injury that could get worse if not treated quickly. While emergency departments are open 24 hours a day and don’t require an appointment, minor illnesses or injuries are best treated by your local doctor or medical centre.,",
+        "shortDescription": "If you are seriously hurt or sick, you can go to a hospital emergency"
     },
     {
         "id": 3,
         "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/04/h2-img-3.jpg",
         "title": "Precise Diagnosis",
-        "description": "A precise cancer diagnosis provides an accurate assessment of your tumor, including the cell type and stage, and helps oncologists determine the most "
+        "description": "A precise cancer diagnosis provides an accurate assessment of your tumor, including the cell type and stage, and helps oncologists determine the mostPrecision diagnosis is the accurate and timely explanation of each patient's health problem and further requires communication of that explanation to patients and surrogate decision-makers. Both accuracy and timeliness are essential to critical care, yet computed decision support systems (CDSS) are scarce ",
+        "shortDescription": "A precise cancer diagnosis provides an accurate assessment "
     },
     {
         "id": 4,
         "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/04/h2-img-7.jpg",
         "title": "Primary Care",
-        "description": "A primary care physician is a specialist in family medicine, general internal medicine or general pediatrics who provides definitive care to the ."
+        "description": "A primary care physician is a specialist in family medicine, general internal medicine or general pediatrics who provides definitive care to the Primary care is the day-to-day healthcare given by a health care provider. Typically this provider acts as the first contact and principal point of continuing care for patients within a healthcare system, and coordinates other specialist care that the patient may need.[1][2][3] Patients commonly receive primary care from professionals such as a primary care physician (general practitioner or family physician), a physician assistant, or a nurse practitioner. In some localities, such a professional may be a registered nurse, a pharmacist, a clinical officer (as in parts of Africa), or an Ayurvedic or other traditional medicine professional (as in parts of Asia). Depending on the nature of the health condition, patients may then be referred for secondary or tertiary care. .",
+        "shortDescription": "A primary care physician is a specialist in family medicine,"
     },
     {
         "id": 5,
         "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/04/h2-img-1.jpg",
         "title": "Vascular Surgery",
-        "description": "Department of Cardiothoracic & Vascular Surgery is dedicated to the diagnosis and surgical treatment of cardiac, thoracic and vascular diseases"
+        "description": "Department of Cardiothoracic & Vascular Surgery is dedicated to the diagnosis and surgical treatment of cardiac, thoracic and vascular diseases and Vascular surgery is a surgical subspecialty in which diseases of the vascular system, or arteries, veins and lymphatic circulation, are managed by medical therapy, minimally-invasive catheter procedures, and surgical reconstruction.",
+        "shortDescription": "Department of Cardiothoracic & Vascular Surgery is dedicated"
     },
     {
         "id": 6,
         "img": "https://mediclinic.qodeinteractive.com/wp-content/uploads/2017/05/blog-post-11.jpg",
         "title": "General Surgery",
-        "description": "General surgery is a discipline that requires knowledge of and responsibility for the preoperative, operative, and postoperative management of patients with ."
+        "description": "General surgery is a discipline that requires knowledge of and responsibility for the preoperative, operative, and postoperative management of patients with .",
+        "shortDescription": "General surgery is a discipline that requires knowledge of and"
     }
 ]

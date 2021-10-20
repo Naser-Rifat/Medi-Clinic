@@ -1,20 +1,23 @@
 [
     {
-        "id": 1,
+        "id": 1001,
         "img": "https://healsoul.thememove.com/wp-content/uploads/2018/10/blog-32-370x237.jpg",
         "title": "Daily Home Care",
-        "description": "We send a doctor to visit the patient at home to diagnose  ..."
+        "description": "We send a doctor to visit the patient at home to diagnose  ...",
+        "fulldescription": " Home health nursing is a nursing specialty in which nurses provide multidimensional home care to patients of all ages. Home health care is a cost efficient way to deliver quality care in the convenience of the client's home. Home health nurses create care plans to achieve goals based on the client's diagnosis. These plans can include preventive, therapeutic, and rehabilitative actions. Home health nurses also supervise certified nursing assistants. The professional nursing organization for home health nurses is the Home Healthcare Nurses Association (HHNA). Home health care is intended for clients that are well enough to be discharged home, but still require skilled nursing personnel to assess, initiate and oversee nursing interventions. Lillian Wald is recognized as the pioneer of public health nursing.She established the Henry Street Settlement which served underprivileged individuals and families. Nurses and social workers that worked at the Henry Street Settlement visited patients in their homes, assessed their health needs, and provided support with hygiene, nutrition, immunizations and more. Wald was able to convince Metropolitan Life Insurance Company to cover home care services. This allowed public health nursing to shift from charitable work to profitable work."
     },
     {
-        "id": 2,
+        "id": 2001,
         "img": "https://healsoul.thememove.com/wp-content/uploads/2018/10/blog-29-370x237.jpg",
-        "title": "Hourly Home Care",
-        "description": "The most common form of home health care, which depends... "
+        "title": "Ederly Home Care ",
+        "description": "The most common form of home health care, which depends... ",
+        "fulldescription": "Elderly care, or simply eldercare, is the fulfillment of the special needs and requirements that are unique to senior citizens. This broad term encompasses such services as assisted living, adult day care, long term care, nursing homes, hospice care, and home care. Because of the wide variety of elderly care found globally, as well as differentiating cultural perspectives on elderly citizens, the subject cannot be limited to any one practice. For example, many countries in Asia use government-established elderly care quite infrequently, preferring the traditional methods of being cared for by younger generations of family members. Elderly care emphasizes the social and personal requirements of senior citizens who need some assistance with daily activities and health care, but who desire to age with dignity. It is an important distinction, in that the design of housing, services, activities, employee training and such should be truly customer-centered. It is also noteworthy that a large amount of global elderly care falls under the unpaid market sector."
     },
     {
-        "id": 3,
+        "id": 3001,
         "img": "https://healsoul.thememove.com/wp-content/uploads/2018/10/blog-30-370x237.jpg",
         "title": "Specialized Care",
-        "description": "Physical, mental, occupational therapy provides patients …"
+        "description": "Physical, mental, occupational therapy provides patients …",
+        "fulldescription": " Home health nursing is a nursing specialty in which nurses provide multidimensional home care to patients of all ages. Home health care is a cost efficient way to deliver quality care in the convenience of the client's home. Home health nurses create care plans to achieve goals based on the client's diagnosis. These plans can include preventive, therapeutic, and rehabilitative actions. Home health nurses also supervise certified nursing assistants. The professional nursing organization for home health nurses is the Home Healthcare Nurses Association (HHNA). Home health care is intended for clients that are well enough to be discharged home, but still require skilled nursing personnel to assess, initiate and oversee nursing interventions.Lillian Wald is recognized as the pioneer of public health nursing.She established the Henry Street Settlement which served underprivileged individuals and families. Nurses and social workers that worked at the Henry Street Settlement visited patients in their homes, assessed their health needs, and provided support with hygiene, nutrition, immunizations and more. Wald was able to convince Metropolitan Life Insurance Company to cover home care services. This allowed public health nursing to shift from charitable work to profitable work. "
     }
 ]

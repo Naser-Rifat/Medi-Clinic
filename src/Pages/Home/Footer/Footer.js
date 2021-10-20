@@ -1,10 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from "../../../images/icon/medi-black-logo.png"
+import logo from "../../../images/icon/medi-black-logo.png";
+import './Footer.css';
 
 const Footer = () => {
     return (
-        <div className="row d-flex p-16 bg-dark text-white">
+        <div className="row d-flex p-16 bg-dark text-white footer" >
             <div className="col-lg-3 col-md-6 col-sm-12 text-left">
                 <img src={logo} alt="" />
                 <p className="m-0">Plot #, Road #,

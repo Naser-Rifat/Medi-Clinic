@@ -22,6 +22,7 @@ const useFirebase = () => {
 
 
 
+
     const toogleLogin = (e) => {
         setIsLogin(e.target.checked)
 
@@ -70,11 +71,13 @@ const useFirebase = () => {
                 setUser(result.user);
                 console.log(result.user)
                 setError('');
-
             })
             .catch(error => {
                 setError(error.message);
             })
+            .finally(() => setIsLoading(false))
+
+
 
     }
 
@@ -88,6 +91,8 @@ const useFirebase = () => {
             .catch(error => {
                 setError(error.message);
             })
+            .finally(() => setIsLoading(false))
+
     }
 
     const createNewUser = (email, password) => {
@@ -104,6 +109,8 @@ const useFirebase = () => {
             .catch(error => {
                 setError(error.message)
             })
+            .finally(() => setIsLoading(false))
+
 
     }
 
@@ -112,6 +119,13 @@ const useFirebase = () => {
             .then(() => {
 
             })
+            .catch(error => {
+                setError(error.message)
+            })
+            .finally(() => setIsLoading(false))
+
+
+
 
     }
 
@@ -178,7 +192,9 @@ const useFirebase = () => {
         resetPassword,
         handelSetName,
         setIsLoading,
-        isLoading
+        isLoading,
+        processLogin
+
     }
 
 

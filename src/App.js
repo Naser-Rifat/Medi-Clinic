@@ -10,6 +10,9 @@ import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
 import NotFound from './Pages/NotFound/NotFound';
 import Aboutus from './Pages/Home/Aboutus/Aboutus';
 import Footer from './Pages/Home/Footer/Footer';
+import HServiceDetail from './Pages/HServiceDetail/HServiceDetail';
+import ArticleDetail from './Pages/ArticleDetail/ArticleDetail';
+import Blogs from './Pages/Home/Blogs/Blogs';
 
 
 function App() {
@@ -25,6 +28,9 @@ function App() {
             <Route path="/home">
               <Home></Home>
             </Route>
+            <Route path="/blogs">
+              <Blogs></Blogs>
+            </Route>
 
             <PrivateRoute path="/details/:ID">
               <Details></Details>
@@ -35,6 +41,13 @@ function App() {
             <Route path="/aboutus">
               <Aboutus></Aboutus>
             </Route>
+            <PrivateRoute path="/doorstepservices/:ID">
+              <HServiceDetail></HServiceDetail>
+            </PrivateRoute>
+            <PrivateRoute path="/articledetails/:ID">
+              <ArticleDetail></ArticleDetail>
+            </PrivateRoute>
+
             <Route path="*">
               <NotFound></NotFound>
             </Route>

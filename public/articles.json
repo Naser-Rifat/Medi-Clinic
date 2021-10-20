@@ -3,12 +3,42 @@
         "id": 1,
         "img": "https://media.nutrition.org/wp-content/uploads/2020/01/protein-choices.png",
         "title": "Effects of red meat, white meat, and nonmeat protein sources on atherogenic lipoprotein measures in the context of low compared with high saturated fat intake: a randomized controlled trial",
-        "description": "Authors of this study tested whether levels of atherogenic lipids and lipoproteins differed significantly following consumption of diets with high red meat content compared with diets with similar amounts of protein derived from white meat or nonmeat sources, and whether these effects were modified by concomitant intake of high compared with low saturated fatty acids. ..."
+        "description": "The American Journal of Clinical Nutrition, Volume 110, Issue 1, July 2019, Pages 24–33,  of this study tested whether levels of atherogenic lipids and lipoproteins differed significantly following consumption of diets with high red meat content compared with diets with similar amounts of protein derived from white meat or nonmeat sources, and whether these effects were modified by concomitant intake of high compared with low saturated fatty acids.This article was mentioned in 134 news outlets and tweeted about over 1,400 times! Here are 2 news articles about the study: Reader’s Digest and ABC News.",
+        "link": "https://doi.org/10.1093/ajcn/nqz035"
     },
     {
         "id": 2,
         "img": "https://media.nutrition.org/wp-content/uploads/2020/01/keto-diet.png",
         "title": "The Ketogenic Diet: Evidence for Optimism but High-Quality Research Needed",
-        "description": "The author of the article says that “Based on available evidence, a well-formulated ketogenic diet does not appear to have major safety concerns for the general public and can be considered a first-line approach for obesity and diabetes. High-quality clinical trials of ketogenic diets will be needed to assess important questions about their long-term effects and full potential in clinical medicine” "
+        "description": "The author of the article says that “Based on available evidence, a well-formulated ketogenic diet does not appear to have major safety concerns for the general public and can be considered a first-line approach for obesity and diabetes. High-quality clinical trials of ketogenic diets will be needed to assess important questions about their long-term effects and full potential in clinical medicine” ",
+        "link": "https://doi.org/10.1093/jn/nxz308"
+    },
+    {
+        "id": 3,
+        "img": "https://media.nutrition.org/wp-content/uploads/2020/01/Meal-Timing-and-Frequency.png",
+        "title": "Meal Frequency and Timing Are Associated with Changes in Body Mass Index in Adventist Health Study 2",
+        "description": "Scientific evidence for the optimal number, timing, and size of meals is lacking. The authors of this study investigated the relation between meal frequency and timing and changes in body mass index (BMI). Their results suggest that in relatively healthy adults, eating less frequently, no snacking, consuming breakfast, and eating the largest meal in the morning may be effective methods for preventing long-term weight gain. Eating breakfast and lunch 5–6 h apart and making the overnight fast last 18–19 h may be a useful practical strategy.",
+        "link": "https://doi.org/10.3945/jn.116.244749"
+    },
+    {
+        "id": 4,
+        "img": "https://media.nutrition.org/wp-content/uploads/2020/01/coffee-consumption.png",
+        "title": "Long-term coffee consumption, caffeine metabolism genetics, and risk of cardiovascular disease: a prospective analysis of up to 347,077 individuals and 8368 cases",
+        "description": "The aim of this study was to examine if the CYP1A2 genotype or a genetic score for caffeine metabolism (caffeine-GS) modifies the association between habitual coffee consumption and the risk of cardiovascular disease (CVD). The authors concluded that heavy coffee consumption was associated with a modest increase in CVD risk, but this association was unaffected by genetic variants influencing caffeine metabolism. ",
+        "link": "https://doi.org/10.1093/ajcn/nqy297"
+    },
+    {
+        "id": 5,
+        "img": "https://media.nutrition.org/wp-content/uploads/2020/01/blood-type-diets.png",
+        "title": "Blood type diets lack supporting evidence: a systematic review",
+        "description": "A systematic search was performed to answer the following question: In humans grouped according to blood type, does adherence to a specific diet improve health and/or decrease risk of disease compared with nonadherence to the diet? The Cochrane Library, MEDLINE, and Embase were systematically searched by using sensitive search strategies. The authors concluded that no evidence currently exists to validate the purported health benefits of blood type diets. To validate these claims, studies are required that compare the health outcomes between participants adhering to a particular blood type diet (experimental group) and participants continuing a standard diet (control group) within a particular blood type population.",
+        "link": "https://doi.org/10.3945/ajcn.113.058693"
+    },
+    {
+        "id": 6,
+        "img": "https://media.nutrition.org/wp-content/uploads/2020/01/organic-food-and-breast-cancer.png",
+        "title": "Association Between Organic Food Consumption and Breast Cancer Risk: Findings from the Sister Study (P18-038-19",
+        "description": "Diet is a source of exposure to pesticides. Organic food consumption may lower cancer risk, possibly due to decreased exposure to pesticides. Few studies have investigated the association between organic food consumption and cancer risk and evidence on the risk of breast cancer is limited. Although unmeasured factors associated with consuming organic foods may explain these results, organic produce consumption was associated with reduced breast cancer risk.",
+        "link": "https://doi.org/10.1093/cdn/nzz039.P18-038-19"
     }
 ]

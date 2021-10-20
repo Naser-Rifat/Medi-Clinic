@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { Card } from 'react-bootstrap';
-import { useParams } from 'react-router-dom';
+import { useParams } from 'react-router';
 
-const Details = () => {
+const ArticleDetail = () => {
     const { ID } = useParams();
 
     const [data, setData] = useState([]);
@@ -11,7 +11,7 @@ const Details = () => {
 
 
     useEffect(() => {
-        fetch("/services.json")
+        fetch("/articles.json")
             .then(res => res.json())
             .then(data => setData(data))
             .catch(error => {
@@ -24,8 +24,8 @@ const Details = () => {
 
     return (
 
-        <Card className="w-75 mx-auto my-28 text-justify border-0">
-            <Card.Img className="w-50 mx-auto" variant="top" src={itemDetails?.img} />
+        <Card className="w-50 m-auto">
+            <Card.Img variant="top" src={itemDetails?.img} />
             <Card.Body>
                 <Card.Text className="fw-bold">
                     {itemDetails?.title}
@@ -33,9 +33,10 @@ const Details = () => {
                 <Card.Text>
                     {itemDetails?.description}
                 </Card.Text>
+                <a target="_blank" href={itemDetails?.link} >https://doi.org/10.1093/jn/nxz308</a>
             </Card.Body>
         </Card>
     );
-};
+}
 
-export default Details;
+export default ArticleDetail;

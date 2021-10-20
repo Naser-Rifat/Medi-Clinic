@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import { Card } from 'react-bootstrap';
-import { useParams } from 'react-router-dom';
+import { useParams } from 'react-router';
 
-const Details = () => {
+const HServiceDetail = () => {
     const { ID } = useParams();
 
     const [data, setData] = useState([]);
@@ -11,7 +11,7 @@ const Details = () => {
 
 
     useEffect(() => {
-        fetch("/services.json")
+        fetch("/h.services.json")
             .then(res => res.json())
             .then(data => setData(data))
             .catch(error => {
@@ -24,18 +24,21 @@ const Details = () => {
 
     return (
 
-        <Card className="w-75 mx-auto my-28 text-justify border-0">
+        <Card className="w-55 mt-5 my-32 mx-auto border-0 text-justify">
             <Card.Img className="w-50 mx-auto" variant="top" src={itemDetails?.img} />
-            <Card.Body>
+            <Card.Body >
                 <Card.Text className="fw-bold">
                     {itemDetails?.title}
                 </Card.Text>
                 <Card.Text>
-                    {itemDetails?.description}
+                    {itemDetails?.fulldescription}
+
+
                 </Card.Text>
             </Card.Body>
         </Card>
     );
 };
 
-export default Details;
+
+export default HServiceDetail;

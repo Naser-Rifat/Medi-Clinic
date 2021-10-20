@@ -1,13 +1,16 @@
 import React, { useEffect, useState } from 'react';
 import Article from '../Article/Article';
 
-const Articles = () => {
-    const [fakedata, setFakeData] = useState([]);
+const Blogs = () => {
+
+
+    const [article, setArtice] = useState([]);
+
 
     useEffect(() => {
         fetch('./articles.json')
             .then(res => res.json())
-            .then(data => setFakeData(data))
+            .then(data => setArtice(data))
             .catch(error => {
                 console.log(error.message);
             });
@@ -17,10 +20,9 @@ const Articles = () => {
 
     return (
         <div>
-
             <div id="articles" className="row  d-flex  mx-5">
                 {
-                    fakedata.slice(0, 2).map(data => <Article
+                    article.map(data => <Article
                         key={data.id}
                         data={data}
 
@@ -33,4 +35,4 @@ const Articles = () => {
     );
 };
 
-export default Articles;
+export default Blogs;
