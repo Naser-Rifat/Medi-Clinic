@@ -24,7 +24,7 @@ const Service = ({ service }) => {
                         {shortDescription}
                     </Card.Text>
                     <Link className="text-dark" to={`/details/${id}`}>
-                        <Button className=" btn btn-primary " >Details info</Button>
+                        <Button className=" btn btn-primary my-2 " >Details info</Button>
                     </Link>
                 </Card.Body>
             </Link>
