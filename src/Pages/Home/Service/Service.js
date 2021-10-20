@@ -15,7 +15,7 @@ const Service = ({ service }) => {
         <Card className=" col-lg-3 mx-10  col-md-8  hover:border-blue-400  border-1 p-2 hover:shadow-lg">
             <Link className="text-dark no-underline" to={`/details/${id}`}>
                 <Card.Img className="w-100" style={{ height: "240px" }} variant="top" src={img} />
-                <Card.Body className="p-4">
+                <Card.Body className="p-4 text-justify">
 
                     <Card.Text className="fw-bold">
                         {title}
