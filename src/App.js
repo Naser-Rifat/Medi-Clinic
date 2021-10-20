@@ -41,9 +41,9 @@ function App() {
             <Route path="/aboutus">
               <Aboutus></Aboutus>
             </Route>
-            <PrivateRoute path="/doorstepservices/:ID">
+            <Route path="/doorstepservices/:ID">
               <HServiceDetail></HServiceDetail>
-            </PrivateRoute>
+            </Route>
             <PrivateRoute path="/articledetails/:ID">
               <ArticleDetail></ArticleDetail>
             </PrivateRoute>
