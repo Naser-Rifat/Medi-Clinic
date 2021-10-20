@@ -27,9 +27,12 @@ const Header = () => {
                             <Nav.Link as={HashLink} className="disabled:opacity-50 text-dark font-bold hover:bg-blue-200 mx-1 rounded" to="/login">Login</Nav.Link>
                     }
 
+
                     <Navbar.Text>
-                        User: <a href="/login">{user?.displayName && user.displayName}</a>
+                        User: <Link className="no-underline text-danger" to="/login">{user?.displayName && user.displayName}</Link>
                     </Navbar.Text>
+                    <Navbar.Brand className="mx-2"><img className="w-12 mx-auto rounded-circle" src={user?.photoURL} alt="" /> </Navbar.Brand>
+
                 </Navbar.Collapse>
 
 

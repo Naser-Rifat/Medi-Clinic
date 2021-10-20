@@ -20,7 +20,7 @@ const Blogs = () => {
 
     return (
         <div>
-            <div id="articles" className="row  d-flex  mx-5">
+            <div className="row  d-flex  mx-5 p-5">
                 {
                     article.map(data => <Article
                         key={data.id}
