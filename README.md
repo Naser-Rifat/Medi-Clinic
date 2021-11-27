@@ -1,7 +1,7 @@
 
 
-### `Website-Name:` `MediClinic`
-#### `WebSite-Link:` https://medi-clinic-924d0.web.app/
+### `Site-Name:` `MediClinic`
+#### `Site-Link:` https://medi-clinic-924d0.web.app/
 
 ### `Description`
 #### `-Firebase authentication system added`
