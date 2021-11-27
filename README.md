@@ -6,12 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `Website-Name`
-   ## `MediClinic`
+### `Website-Name` ## `MediClinic`
 
-#### `WebSite-Link`
-
-[https://medi-clinic-924d0.web.app/home#home]
+#### `WebSite-Link:` https://medi-clinic-924d0.web.app/home#home
 
 
 #### `Descrption`
